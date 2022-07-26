@@ -1,4 +1,4 @@
-# Optimizing-Restaurant-s-Search
+# Optimizing the Restaurant Search
 
 Summary
 -Introduction
